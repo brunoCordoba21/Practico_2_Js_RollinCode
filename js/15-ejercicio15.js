@@ -1,3 +1,4 @@
+
 const palabras = prompt("escribe una frase: ").toLowerCase();
 const vocales = "aeiou";
 let cantVocal = 0;
